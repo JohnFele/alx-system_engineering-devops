@@ -1,2 +1,2 @@
 #!/bin/bash
-rm *.jc
+find -name "*.jc" -type f -delete
